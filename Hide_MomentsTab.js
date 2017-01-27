@@ -10,7 +10,5 @@
 // ==/UserScript==
 
 $(function(){
-
 	$("li.moments.js-moments-tab").remove();
-  
 })();
